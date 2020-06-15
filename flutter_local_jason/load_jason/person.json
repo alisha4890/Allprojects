@@ -1,0 +1,28 @@
+[
+
+     {
+       "id": "1",
+       "city": "Mumbai",
+       "state": "Maharashtra"
+     },
+     {
+       "id": "2",
+       "city": "Delhi",
+       "state": "Delhi"
+     },
+     {
+       "id": "3",
+       "city": "Bengaluru",
+       "state": "Karnataka"
+     },
+     {
+       "id": "4",
+       "city": "Ahmedabad",
+       "state": "Gujarat"
+     },
+     {
+       "id": "5",
+       "city": "Hyderabad",
+       "state": "Telangana"
+     }
+]
